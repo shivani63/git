@@ -17,4 +17,3 @@ if (sum1 == n):
 else:
   print("the number is not a perfect number ")
 
-6
