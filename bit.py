@@ -1,0 +1,10 @@
+'''print(5 & 4)
+print(5 | 4)
+print(5^4)
+print(~5)
+print(~8)
+print(~7)'''
+print(6<<2)
+print(6>>2)
+print(3<<2)
+print(3>>2)
