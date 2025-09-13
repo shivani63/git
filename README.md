@@ -7,7 +7,6 @@ Each file demonstrates different concepts in programming.
 - `bit.py` → Bitwise operators in Python  
 - `builtinmethods.py` → Examples of Python built-in methods  
 - `classtask.py` → Small tasks and exercises using classes  
-- `code1.html` → Simple HTML file (basics of web structure)  
 - `cond.py` → Conditional statements examples  
 - `controlstatements.py` → Loops and control flow  
 - `exam.py` → Practice programs for exams  
